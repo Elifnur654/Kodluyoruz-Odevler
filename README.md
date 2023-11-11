@@ -1,1 +1,2 @@
-# Kodluyoruz-devler
+# Kodluyoruz-Ödevler
+Bütün ödevler mevcuttur.
